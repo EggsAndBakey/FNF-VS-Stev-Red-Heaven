@@ -1,5 +1,5 @@
 # Friday Night Funkin' - VS Stev Red Heaven
-https://github.com/Red-Heaven/FNF-VS-Stev-Balanced-Universe
+Just in case it's not obvious enough, this project has been entirely scrapped and is not coming back unless someone revives it. The main opponents from it (Heavev, Blev, Arratev) will likely be redesigned, renamed and used in different projects.
 
 This is a fan-mod of VS Stev.
 Engine is Psych Engine, however, only the Project.xml has been modified at this time.
